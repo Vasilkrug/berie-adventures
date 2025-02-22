@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "json-maps/startGame.json",
+    "expandedProjectPaths": [
+        "json-maps",
+        "."
+    ],
+    "fileStates": {
+        "json-maps/startGame.json": {
+            "scale": 2.6549107142857142,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 468.9423238607701,
+                "y": 224.11299815032788
+            }
+        },
+        "json-maps/startGame.json#platforms": {
+            "scaleInDock": 1
+        },
+        "json-maps/startGame.tmj": {
+            "scale": 1.5890234374999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 639.7010742643624,
+                "y": 319.6932077976352
+            }
+        }
+    },
+    "last.imagePath": "C:/berie-adventures/berie-adventures/src/assets/spriteSheet",
+    "map.lastUsedFormat": "json",
+    "map.width": 40,
+    "openFiles": [
+        "json-maps/startGame.json"
+    ],
+    "project": "beries-adventure.tiled-project",
+    "recentFiles": [
+        "json-maps/startGame.json",
+        "json-maps/startGame.tmj"
+    ],
+    "tileset.embedInMap": true
+}
